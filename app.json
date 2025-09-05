@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "repro-android-bug-build",
-    "slug": "repro-android-bug-build",
+    "name": "repro-squircle",
+    "slug": "repro-squircle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,7 +9,9 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cixidesign.reprosquircle",
+      "appleTeamId": "4ZPL8788H4"
     },
     "android": {
       "adaptiveIcon": {
@@ -17,8 +19,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false,
-      "package": "com.cixidesign.reproandroidbugbuild"
+      "package": "com.cixidesign.reprosquircle"
     },
     "web": {
       "output": "static",
