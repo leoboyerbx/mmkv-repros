@@ -9,7 +9,9 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.leoboyer.rn-repro.mmkv",
+      "appleTeamId": "L5Q78XY962"
     },
     "android": {
       "adaptiveIcon": {
@@ -26,6 +28,7 @@
     },
     "plugins": [
       "expo-router",
+      "react-native-mmkv",
       [
         "expo-splash-screen",
         {
