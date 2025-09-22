@@ -1,5 +1,5 @@
 {
-  "name": "repro-android-bug-build",
+  "name": "rn-repros",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

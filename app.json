@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "repro-android-bug-build",
-    "slug": "repro-android-bug-build",
+    "name": "rn-repros",
+    "slug": "rn-repros",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
